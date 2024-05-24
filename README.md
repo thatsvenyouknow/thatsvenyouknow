@@ -8,7 +8,7 @@ My main interests are twofold:
 
 A flavor of 1. can be found in the [eegreconstruction](https://github.com/thatsvenyouknow/eegreconstruction) repository which contains the code that I have (completely) written during my time at the MIT Media Lab. 
 
-For 2. I would like to invite you to check out the [ML_basics](https://github.com/thatsvenyouknow/ML_basics) repository in which I have coded several models from both, the predictive and generative AI field, from scratch or have applied state-of-the-art techniques to different use cases. Alternatively, you may explore some of my other (university) projects, too. 
+For 2. I would like to invite you to check out the [Machine-Learning-Projects](https://github.com/thatsvenyouknow/Machine-Learning-Projects) repository in which I have coded several models from both, the predictive and generative AI field, from scratch or have applied state-of-the-art techniques to different use cases. Alternatively, you may explore some of my other (university) projects, too. 
 
 🧠 How to catch me: Non-trivial (ML) project ideas that are a) very impactful :rocket: and/or b) super cool :sunglasses:.
 
