@@ -1,6 +1,6 @@
 👋 Hi, I’m Sven
 
-I am a freshly graduated Neuroengineer from the Technical University in Munich (TUM) and currently located in Munich, Germany. 
+I am a Neuro-/AI-Engineer and currently located in Munich, Germany. 
 
 My main interests are twofold:
 1. I love to apply AI to the neuro and medical field in a pursuit to create a positive impact to the world. This ranges from reconstructing images from brain recordings to detecting pathologies from imaging data.
